@@ -1,3 +1,4 @@
+<img width="557" height="867" alt="Screenshot 2026-07-04 161940" src="https://github.com/user-attachments/assets/97b99c0a-0293-4542-b6ee-ddb66016977d" />
 # 🚀 PeopleCore - Enterprise HRMS
 
 <div align="center">
