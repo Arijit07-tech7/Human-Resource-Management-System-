@@ -352,7 +352,7 @@ npm start
 
 # 👨‍💻 Developed By
 
-**Abir**
+**Byte Busters Team**
 
 Full Stack MERN Developer
 
