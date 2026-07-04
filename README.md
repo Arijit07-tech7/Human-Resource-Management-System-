@@ -305,17 +305,17 @@ npm start
 ## Login
 
 ```
-<img width="557" height="867" alt="Screenshot 2026-07-04 161940" src="https://github.com/user-attachments/assets/97b99c0a-0293-4542-b6ee-ddb66016977d" />
-0
+
 ```
+<img width="557" height="867" alt="Screenshot 2026-07-04 161940" src="https://github.com/user-attachments/assets/97b99c0a-0293-4542-b6ee-ddb66016977d" />
 
 ---
 
 ## Dashboard
 
 ```
-<img width="1895" height="911" alt="Screenshot 2026-07-04 162217" src="https://github.com/user-attachments/assets/85e8dc80-b39a-47bf-b405-920a61fcdb10" />
 ```
+<img width="1895" height="911" alt="Screenshot 2026-07-04 162217" src="https://github.com/user-attachments/assets/85e8dc80-b39a-47bf-b405-920a61fcdb10" />
 
 ---
 
@@ -330,24 +330,24 @@ npm start
 ## Employee Directory
 
 ```
-<img width="1912" height="911" alt="Screenshot 2026-07-04 162328" src="https://github.com/user-attachments/assets/07c137b8-4ce9-4885-b546-d07cad6d98df" />
 ```
+<img width="1912" height="911" alt="Screenshot 2026-07-04 162328" src="https://github.com/user-attachments/assets/07c137b8-4ce9-4885-b546-d07cad6d98df" />
 
 ---
 
 ## Attendance
 
 ```
-<img width="1912" height="911" alt="Screenshot 2026-07-04 162615" src="https://github.com/user-attachments/assets/e81adde5-121d-4b18-a9ab-1dca40ce5e7c" />
 ```
+<img width="1912" height="911" alt="Screenshot 2026-07-04 162615" src="https://github.com/user-attachments/assets/e81adde5-121d-4b18-a9ab-1dca40ce5e7c" />
 
 ---
 
 ## Leave Management
 
 ```
-<img width="1912" height="912" alt="Screenshot 2026-07-04 162543" src="https://github.com/user-attachments/assets/287fce2f-3721-4a7e-861d-bbd71f87dc27" />
 ```
+<img width="1912" height="912" alt="Screenshot 2026-07-04 162543" src="https://github.com/user-attachments/assets/287fce2f-3721-4a7e-861d-bbd71f87dc27" />
 
 ---
 
