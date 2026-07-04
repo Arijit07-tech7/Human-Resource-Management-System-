@@ -1,4 +1,3 @@
-<img width="557" height="867" alt="Screenshot 2026-07-04 161940" src="https://github.com/user-attachments/assets/97b99c0a-0293-4542-b6ee-ddb66016977d" />
 # 🚀 PeopleCore - Enterprise HRMS
 
 <div align="center">
@@ -306,7 +305,8 @@ npm start
 ## Login
 
 ```
-(Add Login Screenshot Here)
+<img width="557" height="867" alt="Screenshot 2026-07-04 161940" src="https://github.com/user-attachments/assets/97b99c0a-0293-4542-b6ee-ddb66016977d" />
+0
 ```
 
 ---
@@ -314,7 +314,7 @@ npm start
 ## Dashboard
 
 ```
-(Add Dashboard Screenshot Here)
+<img width="1895" height="911" alt="Screenshot 2026-07-04 162217" src="https://github.com/user-attachments/assets/85e8dc80-b39a-47bf-b405-920a61fcdb10" />
 ```
 
 ---
@@ -322,7 +322,7 @@ npm start
 ## Analytics
 
 ```
-(Add Analytics Screenshot Here)
+<img width="1913" height="912" alt="Screenshot 2026-07-04 162251" src="https://github.com/user-attachments/assets/2fffa78c-75b1-4221-94cb-22362a22d69b" />
 ```
 
 ---
@@ -330,7 +330,7 @@ npm start
 ## Employee Directory
 
 ```
-(Add Employee Directory Screenshot Here)
+<img width="1912" height="911" alt="Screenshot 2026-07-04 162328" src="https://github.com/user-attachments/assets/07c137b8-4ce9-4885-b546-d07cad6d98df" />
 ```
 
 ---
@@ -338,7 +338,7 @@ npm start
 ## Attendance
 
 ```
-(Add Attendance Screenshot Here)
+<img width="1912" height="911" alt="Screenshot 2026-07-04 162615" src="https://github.com/user-attachments/assets/e81adde5-121d-4b18-a9ab-1dca40ce5e7c" />
 ```
 
 ---
@@ -346,14 +346,14 @@ npm start
 ## Leave Management
 
 ```
-(Add Leave Screenshot Here)
+<img width="1912" height="912" alt="Screenshot 2026-07-04 162543" src="https://github.com/user-attachments/assets/287fce2f-3721-4a7e-861d-bbd71f87dc27" />
 ```
 
 ---
 
 # 👨‍💻 Developed By
 
-**Byte Busters Team**
+**Byte Busters Team(Arijit,Ananya,Mohor,Abir)**
 
 Full Stack MERN Developer
 
