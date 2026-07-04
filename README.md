@@ -43,7 +43,7 @@ The application provides a clean enterprise-grade interface with real-time dashb
 > ### Dashboard Screenshot
 
 <p align="center">
-<img src="screenshots/dashboard.png" width="100%">
+<img width="1895" height="911" alt="Screenshot 2026-07-04 162217" src="https://github.com/user-attachments/assets/85e8dc80-b39a-47bf-b405-920a61fcdb10" />
 </p>
 
 ---
@@ -60,7 +60,7 @@ The application provides a clean enterprise-grade interface with real-time dashb
 > ### Analytics Screenshot
 
 <p align="center">
-<img src="screenshots/analytics.png" width="100%">
+<img width="1913" height="912" alt="Screenshot 2026-07-04 162251" src="https://github.com/user-attachments/assets/2fffa78c-75b1-4221-94cb-22362a22d69b" />
 </p>
 
 ---
@@ -77,7 +77,7 @@ The application provides a clean enterprise-grade interface with real-time dashb
 > ### Employee Directory
 
 <p align="center">
-<img src="screenshots/directory.png" width="100%">
+<img width="1912" height="911" alt="Screenshot 2026-07-04 162328" src="https://github.com/user-attachments/assets/07c137b8-4ce9-4885-b546-d07cad6d98df" />
 </p>
 
 ---
@@ -98,7 +98,7 @@ The application provides a clean enterprise-grade interface with real-time dashb
 > ### Attendance Page
 
 <p align="center">
-<img src="screenshots/attendance.png" width="100%">
+<img width="1912" height="911" alt="Screenshot 2026-07-04 162615" src="https://github.com/user-attachments/assets/e81adde5-121d-4b18-a9ab-1dca40ce5e7c" />
 </p>
 
 ---
@@ -115,7 +115,7 @@ The application provides a clean enterprise-grade interface with real-time dashb
 > ### Leave Management
 
 <p align="center">
-<img src="screenshots/leave.png" width="100%">
+<img width="1912" height="912" alt="Screenshot 2026-07-04 162543" src="https://github.com/user-attachments/assets/287fce2f-3721-4a7e-861d-bbd71f87dc27" />
 </p>
 
 ---
@@ -322,8 +322,9 @@ npm start
 ## Analytics
 
 ```
-<img width="1913" height="912" alt="Screenshot 2026-07-04 162251" src="https://github.com/user-attachments/assets/2fffa78c-75b1-4221-94cb-22362a22d69b" />
 ```
+<img width="1913" height="912" alt="Screenshot 2026-07-04 162251" src="https://github.com/user-attachments/assets/2fffa78c-75b1-4221-94cb-22362a22d69b" />
+
 
 ---
 
